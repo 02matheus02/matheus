@@ -1,4 +1,4 @@
-Meu nome é Matheus henrique
+Meu nome é Matheus Henrique
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
